@@ -1,0 +1,8 @@
+ext {
+    extName = 'AgniSYS'
+    extClass = '.AgniSYS'
+    extVersionCode = 11005
+    isNsfw = false
+}
+
+apply from: "$rootDir/common.gradle"
